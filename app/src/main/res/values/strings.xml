@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Valdi Movie App</string>
+    <string name="home_nav_title">Home</string>
+    <string name="search_nav_title">Search</string>
+    <string name="favorite_nav_title">Favorite</string>
+    <string name="about_nav_title">About</string>
+    <string name="back_content_description">Back</string>
+    <string name="delete_from_bookmark_content_description">Delete this movie from favorites</string>
+    <string name="bookmark_content_description">Bookmark this movie</string>
+    <string name="title_about">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about">About</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="themoviedb">www.themoviedb.com</string>
+    <string name="special_thanks">Special Thanks To:</string>
+    <string name="dev_email">rvdans002@gmail.com</string>
+    <string name="dev_name">Rivaldi Agustinus Nugraha Siringoringo</string>
+</resources>
